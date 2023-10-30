@@ -1,4 +1,4 @@
-# Smart-Energy-Meter-using-iotiot
+# Smart-Energy-Meter-using-IOT
 
 • Transmitted consumption data at 5-15 minute intervals, empowering consumers with real-time insights for informed
 decisions, potentially resulting in up to 20% savings on their electricity bills.
